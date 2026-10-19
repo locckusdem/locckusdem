@@ -1,4 +1,4 @@
-# Hi, I'm Lucio
+# 👋 Hey, I'm Lucio
 
 **Information Systems Engineering Student (UTN) · Linux Nerd · Homelab Tinkerer · Blue Team & Defensive Security**
 
@@ -7,10 +7,9 @@ I like understanding how systems work under the hood—from low-level packet flo
 ---
 
 ### 🔗 Connect & Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucio_Angel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-angel-7958a7299)
-[![Email](https://img.shields.io/badge/Email-luciobartolomeangel%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luciobartolomeangel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-angel-7958a7299)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciobartolomeangel@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 ---
 
 ### 🧭 At a glance
