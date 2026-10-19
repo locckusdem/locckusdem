@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Lucio
 
-<!--
-**locckusdem/locckusdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Systems Engineering Student (UTN) · Linux Nerd · Homelab Tinkerer · Blue Team & Defensive Security**
 
-Here are some ideas to get you started:
+I like understanding how systems work under the hood—from low-level packet flow and Linux internals to breaking, automating, and fixing things in my own lab. I prefer reproducible setups, hands-on evidence, and command-line automation over manual checklists.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect & Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucio_Angel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-angel-7958a7299)
+[![Email](https://img.shields.io/badge/Email-luciobartolomeangel%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luciobartolomeangel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com)
+
+---
+
+### 🧭 At a glance
+
+| Area | Focus & Setup |
+| :--- | :--- |
+| **🎓 Education & Research** | 3rd-year Information Systems Engineering at UTN. Researcher at Cybersecurity Research Group (GIC - UTN FRLP). Applied Cybersecurity Diploma graduate. |
+| **🐧 Daily Drivers** | Fedora Linux (Hyprland) & Windows 11 on custom AMD desktop. Debian on lab servers. Terminal-first workflow. |
+| **🏗️ Homelab & Infra** | Proxmox VE hypervisor, LXC containers, Docker setups, virtualized networks (pfSense/isolated VLANs), automated backups with Rclone/Robocopy. |
+| **🛡️ Security & Defense** | Defensive telemetry, kernel logging (`auditd`), deception technology/honeypots, network auditing (Wireshark, Nmap), and system hardening. |
+| **🛠️ Tooling & Code** | Bash scripting, Python for automation and socket interactions, C fundamentals, Git, Docker, and system troubleshooting. |
+| **🧠 Cares about** | Evidence-based security, root-cause troubleshooting, open-source infrastructure, privacy rights, and thorough documentation. |
+
+---
+
+### 📂 Featured Labs & Projects
+
+- 🛡️ **Azure Deception & Kernel Telemetry:** Research lab analyzing deceptive tokens, honeypots, and kernel-level audit logging.
+- ⚙️ **Automated Cloud Backup Pipeline:** Resilient backup automation scripts using Robocopy and Rclone syncing local infrastructure to remote cloud storage on a Windows Server.
+- 🔬 **Network Pivoting & Lab Environments:** Virtualized multi-segment network testing with Proxmox, WireGuard/Ligolo-ng, and firewall isolation.
+
+---
+*“If you break it, understand why it broke, document the fix, and automate the prevention.”*
