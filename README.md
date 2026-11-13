@@ -27,7 +27,7 @@ I like understanding how systems work under the hood—from low-level packet flo
 
 ### 📂 Featured Labs & Projects
 
-- 🛡️ **Azure Deception & Kernel Telemetry:** Research lab analyzing deceptive tokens, honeypots, and kernel-level audit logging.
+- 🛡️ **[Azure Deception & Kernel Telemetry](https://github.com/locckusdem/azure-deception-telemetry-lab):** Assume Breach deception & lightweight SOAR lab combining `auditd` honeytokens, passive TCP honeyports, automated PAM containment, and ISO 27001 / NIST CSF 2.0 incident ticketing.
 - ⚙️ **Automated Cloud Backup Pipeline:** Resilient backup automation scripts using Robocopy and Rclone syncing local infrastructure to remote cloud storage on a Windows Server.
 - 🔬 **Network Pivoting & Lab Environments:** Virtualized multi-segment network testing with Proxmox, WireGuard/Ligolo-ng, and firewall isolation.
 
