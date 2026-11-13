@@ -1,15 +1,16 @@
 # 👋 Hey, I'm Lucio
 
-**Information Systems Engineering Student (UTN) · Linux Nerd · Homelab Tinkerer · Blue Team & Defensive Security**
+<a href="https://github.com/locckusdem"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1400&color=58A6FF&vCenter=true&width=640&height=28&lines=locckus%40homelab%3A~%24+whoami+%E2%86%92+Information+Systems+Eng.+%2F%2F+UTN;Linux+Internals+%C2%B7+Defensive+Telemetry+%C2%B7+SOAR+Automation" alt="Terminal status" /></a>
 
 I like understanding how systems work under the hood—from low-level packet flow and Linux internals to breaking, automating, and fixing things in my own lab. I prefer reproducible setups, hands-on evidence, and command-line automation over manual checklists.
 
 ---
 
-### 🔗 Connect & Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-angel-7958a7299)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciobartolomeangel@gmail.com)
+### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-212C42?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-angel-7958a7299)
+[![Gmail](https://img.shields.io/badge/Gmail-212C42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciobartolomeangel@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/locckus)
+
 ---
 
 ### 🧭 At a glance
